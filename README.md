@@ -1,12 +1,7 @@
-# Project Data Science
+# PredictiveModelsApp
 
+Developpement en cours
 
-
-## Collaborateurs
-  - Faiza MNASRI
-  - Virginie GIACOMETTI
-  - AlaeEN NASYRY
-  - Alexis GUIZARD 
 
 ### Description :
 
@@ -14,7 +9,7 @@
 #### Cloner le dépôt :
 
 ```bash
-git clone https://github.com/FaizaBK/Projet_Data_Science_Gr2.git
+git clone https://github.com/lana-12/PredictiveModelsApp.git
 ```
 
 #### Créer et activer un environnement virtuel :
