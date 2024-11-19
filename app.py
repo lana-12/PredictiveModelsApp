@@ -12,6 +12,10 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+st.header("Bienvenue")
+st.caption("Bienvenue dans le Playground ")
+
+
 type_data = st.sidebar.radio(
     "Choisissez votre type de playground",
     ["Regression", "Classification", "NailsDetection"]
