@@ -18,7 +18,7 @@ st.caption("Bienvenue dans le Playground ")
 
 type_data = st.sidebar.radio(
     "Choisissez votre type de playground",
-    ["Regression", "Classification", "NailsDetection"]
+    ["", "Regression", "Classification", "NailsDetection"]
 )
 
 if type_data == "Regression":
